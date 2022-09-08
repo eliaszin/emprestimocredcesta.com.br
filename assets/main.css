@@ -14,7 +14,7 @@ body {
 
 header {
     border-top: 4px solid #DE2938;
-    border-bottom: 1.5px solid #CCCCCC;
+    border-bottom: 1.5px solid #EEEEEE;
 }
 
 header > div > div {
@@ -34,7 +34,7 @@ main > div > div {
 }
 
 footer {
-    border-top: 1.5px solid #CCCCCC;
+    border-top: 1.5px solid #EEEEEE;
 }
 
 footer > div > div {
